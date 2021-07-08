@@ -1,6 +1,8 @@
 <!--  -->
 <template>
-  <div class="">{{ title }}</div>
+  <div class="">
+    <div>{{ title }}这是测试用</div>
+  </div>
 </template>
 
 <script>
